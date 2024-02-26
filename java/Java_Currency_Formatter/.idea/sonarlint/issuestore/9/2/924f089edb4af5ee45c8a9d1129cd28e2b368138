@@ -1,0 +1,11 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(ÎÔ€³8ïœã³Ş1
+G	java:S106"+Replace this use of System.out by a logger.( ÒØÇ8ïœã³Ş1
+L	java:S106"+Replace this use of System.out by a logger.(Ëã½·ÿÿÿÿÿ8ğœã³Ş1
+G	java:S106"+Replace this use of System.out by a logger.(ÀéÓˆ8ğœã³Ş1
+@
+java:S1128"$Remove this unused import 'java.io'.(¬›ãD8íıã³Ş1
+C
+java:S1128"&Remove this unused import 'java.math'.(âî©8íıã³Ş1
+I
+java:S1128",Remove this unused import 'java.util.regex'.(£‘¬Ş8íıã³Ş1
