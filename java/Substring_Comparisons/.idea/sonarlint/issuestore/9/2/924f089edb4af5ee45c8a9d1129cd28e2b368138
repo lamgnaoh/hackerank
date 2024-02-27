@@ -1,0 +1,12 @@
+
+U
+java:S1854"8Remove this useless assignment to local variable "scan".(ÅÒ²º8ÖŠÏÛŞ1
+F
+java:S1481")Remove this unused "scan" local variable.(ÅÒ²º8ØŠÏÛŞ1
+L	java:S106 "+Replace this use of System.out by a logger.(ÚÚäßıÿÿÿÿ8ÙŠÏÛŞ1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ú”ÙÛŞ1
+N
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8ú”ÙÛŞ1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ú”ÙÛŞ1
