@@ -1,0 +1,6 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(´ñ¿ö8‰‰ä²ç1
+G	java:S106"+Replace this use of System.out by a logger.(À»¯¤8Š‰ä²ç1
+G	java:S106"+Replace this use of System.out by a logger.(›¢ö‚8Š‰ä²ç1
+\
+java:S1118'":Add a private constructor to hide the implicit public one.(²ìŽÒþÿÿÿÿ8‹‰ä²ç1
