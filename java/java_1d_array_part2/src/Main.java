@@ -9,13 +9,13 @@ public class Main {
   }
 
   private static boolean canWinWithPosition(int position, int leap, int[] game) {
-    if (position < 0 || game[position] == 1){
+    if (position < 0 || game[position] == 1){ // if game[position] == 1 and all 4 case is false so cannot move -> false
       return false;
     }
     if (position == game.length - 1 || position + leap >= game.length) {
       return true;
     }
-    game[position] = 1;
+    game[position] = 1; // mark as resolve
     return canWinWithPosition(position+1 , leap,game) || canWinWithPosition(position -1 ,leap,game)
         || canWinWithPosition(position + leap ,leap,game);
   }
